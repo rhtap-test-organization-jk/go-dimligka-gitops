@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/rhtap_qe/go-dimligka:58eafdb5b02c686630f2b857990c1900a9e5f680@sha256:95cdb18e3c4bf1341ec59053543cba24fbe0fe55aa1dea5069f6d468e00c6c30
+        - image: quay.io/rhtap_qe/go-dimligka:e8d8428715eab79ce96dddfdd89d2e7a6d4fe5ed@sha256:2f5dbe0022681ac8b17d04e8c582b88b32f728e1f6edc28d6459dd68db54eae0
           name: container-image
